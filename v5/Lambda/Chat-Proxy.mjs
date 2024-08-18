@@ -4,7 +4,7 @@ import {GetObjectCommand, S3Client} from '@aws-sdk/client-s3';
 const client = new S3Client({});
 const dbClient = new DynamoDBClient({});
 
-const bucket = '<your bucket name>';
+const bucket = 'serverless-chat-webapp-2024';
 
 export const handler = async function (event) {
     const path = event.pathParameters.proxy;
