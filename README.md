@@ -53,19 +53,24 @@ User authentication and management are handled by Amazon Cognito, providing a se
 
 
 ## Resources:
-- 1. [Flask Documentation](): Official documentation for Flask, the web framework used in this project.
-- 2. [JQuery Documentation](): Documentation for JQuery, a JavaScript library used for making asynchronous requests in this project.
-- 3. [Python Documentation](): Official documentation for the Python programming language.
-- 4. [Blackjack Rules](): A resource explaining the basic rules of Blackjack for reference.
-- 5. [CSS Tricks](): Helpful tips and tricks for working with CSS.
+- 1. [AWS S3](https://aws.amazon.com/s3/): Official documentation for Amazon S3 (Simple Storage Service).
+- 2. [AWS API-GATEWAY](https://aws.amazon.com/api-gateway/): Documentation API Gatewaty.
+- 3. [AWS Lambda](https://aws.amazon.com/pm/lambda/?gclid=CjwKCAjwxNW2BhAkEiwA24Cm9O8jQr5NgWX5zrbUaRj5ArcopsSKPpsCk4zcfQGC2jLP_6YPaeYpqhoCd3gQAvD_BwE&trk=73f686c8-9606-40ad-852f-7b2bcafa68fe&sc_channel=ps&ef_id=CjwKCAjwxNW2BhAkEiwA24Cm9O8jQr5NgWX5zrbUaRj5ArcopsSKPpsCk4zcfQGC2jLP_6YPaeYpqhoCd3gQAvD_BwE:G:s&s_kwcid=AL!4422!3!651212652666!e!!g!!amazon%20lambda!909122559!45462427876): Official documentation for Serverless Computing - AWS Lambda.
+- 4. [AWS DynamoDB](https://aws.amazon.com/dynamodb/): Official documentation for DynamoDB.
+- 5. [AWS Cognito](https://aws.amazon.com/cognito/): Official documentation for Amazon Cognito.
+- 6. [AWS IAM](https://aws.amazon.com/iam/?gclid=CjwKCAjwxNW2BhAkEiwA24Cm9IKnqpc-6NSfp-jicDTzZTMjUAS_tUaVFzzBAuvW1yPSzQJYiDivNhoCDocQAvD_BwE&trk=da94b437-337f-4ee7-81b4-5dcf158370ab&sc_channel=ps&ef_id=CjwKCAjwxNW2BhAkEiwA24Cm9IKnqpc-6NSfp-jicDTzZTMjUAS_tUaVFzzBAuvW1yPSzQJYiDivNhoCDocQAvD_BwE:G:s&s_kwcid=AL!4422!3!651737511584!p!!g!!iam!19845796027!146736269709): Official documentation for AWS Identity and Access Management.
 
-- 6. [Flask Tutorial](): Step-by-step guide for getting started with Flask. A great resource if you're new to Flask development.
-- Google & Stak OverFlow.
-- reddit.
+
+- [AWS Whitepapers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all)
+
+- [AWS Documentation](https://docs.aws.amazon.com/)
 
 
 ## Highlights:  
 
+This serverless chat application was created during my internship at AWS in 2024. The project holds a special place in my journey, serving as a reminder of the incredible experiences and growth I encountered during my time at AWS.
+
+Working on this application allowed me to apply my skills in cloud architecture and serverless technologies while learning from some of the best in the field. It is not just a technical achievement but also a keepsake of the unforgettable memories, challenges overcome, and the invaluable knowledge gained. This project will always remind me of the remarkable team I worked with and the personal and professional growth I achieved during my internship.
 
 
 ## Developer:
