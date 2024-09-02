@@ -4,7 +4,7 @@ const cognito = new CognitoIdentityProviderClient({});
 
 export const handler = async function () {
     const paginator = paginateListUsers({client: cognito}, {
-        UserPoolId: '<user pool id>',
+        UserPoolId: 'us-east-1_7APPxiXt5',
         AttributesToGet: [],
         Filter: '',
         Limit: 60
