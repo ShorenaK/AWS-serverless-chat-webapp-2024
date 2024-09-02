@@ -4,11 +4,71 @@
 ## Game Descriptiion:
 
 
+So to recap, we've used S3, Lambda, API Gateway,
 
+DynamoDB, Cognito, CloudFront, and IAM together
+
+to build a complete web application
+
+The services we're going to use in this course are S3,
+
+the API Gateway, the Lambda, DynamoDB,
+
+Cognito, CloudFront, IAM, and CloudWatch services.
+
+The other thing we're going to cover is a bit of JavaScript.
+
+So we're going to go over some basics
+
+and we're gonna make some AJAX calls
+
+to start turning our boring static site
+
+into something that's actually dynamic and useful.
+
+Instructor: So let's go into some more depth here.
+
+One of the first things we did
+
+Build a chat application entirely with AWS services, and no stand-alone servers at all
+Architect and design serverless applications
+Serve static resources to browsers using AWS's S3 (Simple Storage Service)
+Use Javascript to dynamically modify web pages
+Manage permissions and access policies using IAM (Identity and Access Management)
+Manipulate and vend data in the cloud using AWS Lambda
+Use CORS to manage client-side security in serverless apps
+Store and retrieve data with DynamoDB
+Model API's and create SDK's with API Gateway
+Create a user login system with Cognito
+Speed up your web app with a CloudFront CDN
+
+Immerse yourself in Amazon Web Services (AWS) with this hands-on, project-based course - and truly internalize some highly valuable skills in the world of technology. We'll walk you through building your own chat website using nothing but AWS services - and no standalone services or server instances at all! 
+
+Building a "serverless app" using AWS and its Lambda service is a great introduction to the core services AWS offers. As you create your chat application, you'll learn and use the following AWS services:
+
+
+
+S3 (Simple Storage Service) - For storing static HTML and vending it to your users' browsers
+
+Lambda - For executing logic in the cloud for storing and retrieving data in your application
+
+IAM (Identity and Access Management) - For securing access to your services
+
+API Gateway - For presenting a well-modeled API to your clients and automatically generating client-side code to communicate with it
+
+DynamoDB - For quickly storing and retrieving data at scale
+
+Cognito - For managing users, account creation, and logins securely
+
+CloudFront - For accelerating the delivery of your site to end users with a CDN
+
+We'll tie it all together by learning and practicing Javascript, and we'll learn about CORS to grant browsers the permissions they need to run a serverless application.
+
+Even if you're familiar with AWS, you'll learn valuable techniques on how to build a fully functional, dynamic website without maintaining any servers at all - not even via EC2!
 
 ## Preview 
-![alt text](/static/images/new_back.png)
-![alt text](/static/images/image1.png)
+![alt text](/static/images/1.png)
+![alt text](/static/images/2.png)
 
 
 ## Go to app:
