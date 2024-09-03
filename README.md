@@ -3,9 +3,7 @@
 
 ## Description:
 
-This project is a serverless It showcases the architecture and design of Serverless Chat Web Application by leveraging various AWS services. 
-
-The application serves static resources to users' browsers via AWS S3 (Simple Storage Service) and uses JavaScript to dynamically modify web pages for an interactive user experience. It ensures secure access to resources by managing permissions and access policies with AWS IAM (Identity and Access Management).
+This project showcases the architecture and design of Serverless Chat Web Application by leveraging various AWS services. The application serves static resources to users' browsers via AWS S3 (Simple Storage Service) and uses JavaScript to dynamically modify web pages for an interactive user experience. It ensures secure access to resources by managing permissions and access policies with AWS IAM (Identity and Access Management).
 
 AWS Lambda is employed to handle backend logic, allowing for the manipulation and processing of data in the cloud. To enhance client-side security, CORS (Cross-Origin Resource Sharing) is configured, providing necessary permissions to run serverless applications securely.
 
