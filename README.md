@@ -1,9 +1,9 @@
-# Serverless Chat Web App - 2024 
+# Serverless Chat Web App - AWS 2024 
 ## Shorena K. Anzhilov  
 
 ## Description:
 
-This project is a serverless chat application built using AWS services. It showcases the architecture and design of serverless applications by leveraging various AWS tools and services.
+This project is a serverless It showcases the architecture and design of Serverless Chat Web Application by leveraging various AWS services. 
 
 The application serves static resources to users' browsers via AWS S3 (Simple Storage Service) and uses JavaScript to dynamically modify web pages for an interactive user experience. It ensures secure access to resources by managing permissions and access policies with AWS IAM (Identity and Access Management).
 
@@ -12,8 +12,6 @@ AWS Lambda is employed to handle backend logic, allowing for the manipulation an
 Data storage and retrieval are managed with DynamoDB, a highly scalable NoSQL database service. API Gateway is utilized to model APIs and automatically generate SDKs for seamless communication between client and server.
 
 User authentication and management are handled by Amazon Cognito, providing a secure login system for users. To optimize performance, the application uses CloudFront, a Content Delivery Network (CDN), to accelerate content delivery and improve user experience.
-
-
 
 
 ## Preview 
